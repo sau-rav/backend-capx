@@ -1,0 +1,9 @@
+com/xyz/resources/DashboardResource.class
+com/xyz/xyzApplication.class
+com/xyz/protos/AuthResponse$1.class
+com/xyz/xyzApplication$1.class
+com/xyz/protos/AuthResponse$Builder.class
+com/xyz/util/AuthUtil.class
+com/xyz/protos/AuthResponse.class
+com/xyz/xyzConfiguration.class
+com/xyz/resources/HomeResource.class
